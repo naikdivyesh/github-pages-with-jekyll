@@ -1,4 +1,4 @@
-title: "Wednesday"
+title: Wednesday
 date: 2020-11-04
 
 Today was an amazing day. I debugged some many designs.
